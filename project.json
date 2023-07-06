@@ -1,13 +1,14 @@
 {
   "name": "PriceComparisonA6",
+  "projectId": "1563610c-a2b4-4479-83c9-2f2b163c8708",
   "description": "Input price compared to the Market",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.20.1]",
-    "UiPath.System.Activities": "[23.4.2]",
-    "UiPath.Testing.Activities": "[23.4.0]",
-    "UiPath.UIAutomation.Activities": "[23.4.4]",
-    "UiPath.WebAPI.Activities": "[1.16.2]"
+    "UiPath.Excel.Activities": "[2.20.2]",
+    "UiPath.System.Activities": "[23.4.3]",
+    "UiPath.Testing.Activities": "[23.4.1]",
+    "UiPath.UIAutomation.Activities": "[23.4.7]",
+    "UiPath.WebAPI.Activities": "[1.13.3]"
   },
   "webServices": [],
   "entitiesStores": [],
